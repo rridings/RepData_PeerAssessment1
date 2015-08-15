@@ -112,3 +112,4 @@ xyplot(averageSteps~interval|days, data = f1, type = "l", horizontal=TRUE, layou
 
 ```
 
+Weekday has the peak average steps for any interval, but weekend overall has more steps.  This indicates that weekends are more active.
